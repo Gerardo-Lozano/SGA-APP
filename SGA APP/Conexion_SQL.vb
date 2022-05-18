@@ -6,7 +6,7 @@ Module Conexion_SQL
     Public ConexionSQL_Muestras As SqlConnection
 
     Public servidor_SQL_Muestras As String = "NDCA0WPAP138.MX.CKSNNET.COM\ALPHAMTY"
-    Public DB_SQL_Muestras As String = "AlteaDB"
+    Public DB_SQL_Muestras As String = "GHS"
     Public usuario_Muestras As String = "SA"
     Public pass_Muestras As String = "Alpha123"
 
